@@ -1,0 +1,7 @@
+﻿  Matrix2.cpp
+E:\Проги ОС\Matrix2\Matrix2.cpp(17,31): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Проги ОС\Matrix2\Matrix2.cpp(28,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Проги ОС\Matrix2\Matrix2.cpp(67,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Проги ОС\Matrix2\Matrix2.cpp(78,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Проги ОС\Matrix2\Matrix2.cpp(99,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Matrix2.vcxproj -> E:\Проги ОС\Matrix2\Debug\Matrix2.exe
